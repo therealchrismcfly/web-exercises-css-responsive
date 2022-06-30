@@ -29,7 +29,5 @@
 @media (min-width: 600px) {
   .article {
     width: 40%;
-    display: flex;
-    flex: wrap;
   }
 }
